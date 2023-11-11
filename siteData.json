@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "liu-diwen": "Liu Diwen",
+        "chen-jizhuo": "Chen Jizhuo",
+        "adhitya-gopal": "Adhitya Gopal",
+        "kishore": "Kishore",
+        "tang-moyan": "Tang Moyan"
       },
       "headingKeywords": {}
     },
@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "linktree-developer-guide": "LinkTree Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -51,7 +51,8 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
+        "feature-create-a-new-team": "Feature: Create a new team",
+        "feature-remove-an-existing-team": "Feature: Remove an existing Team",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -108,46 +109,90 @@
       "title": "User Guide for LinkTree",
       "headings": {
         "linktree-user-guide": "LinkTree User Guide",
+        "table-of-contents": "Table of Contents",
         "introduction": "Introduction",
+        "target-user-profile": "Target User Profile",
+        "how-to-use-this-guide": "How to use this Guide?",
         "getting-started": "Getting Started",
         "installation": "Installation",
         "initial-setup": "Initial Setup",
-        "basic-features": "Basic Features",
-        "adding-contacts": "Adding Contacts",
-        "searching-contacts": "Searching Contacts",
-        "editing-contacts": "Editing Contacts",
-        "deleting-contacts": "Deleting Contacts",
-        "show-graph": "Show Graph",
-        "advanced-features": "Advanced Features",
-        "importing-exporting-contacts": "Importing/Exporting Contacts",
-        "creating-groups": "Creating Groups",
+        "understanding-the-gui": "Understanding the GUI",
+        "tutorial-on-using-our-commands": "Tutorial on using our Commands",
+        "features": "Features",
+        "welcome-to-linktree": "Welcome to LinkTree",
+        "managing-developers": "Managing Developers",
+        "add-developer": "Add developer",
+        "remove-developer": "Remove developer",
+        "edit-developer": "Edit developer",
+        "find-developer": "Find developer",
+        "list-developers": "List developers",
+        "managing-teams": "Managing Teams",
+        "create-teams": "Create teams",
+        "add-developers-to-team": "Add developers to team",
+        "delete-team": "Delete team",
+        "remove-developer-from-team": "Remove developer from team",
+        "edit-team-name": "Edit team name",
+        "edit-team-leader": "Edit team leader",
+        "find-team": "Find Team",
+        "what-this-command-does-10": "What this command does:",
+        "list-teams": "List teams",
+        "display-tree": "Display tree",
+        "command-format-9": "Command format:",
+        "help": "Help",
+        "reset-the-project": "Reset the project",
+        "exit-the-application": "Exit the application",
         "troubleshooting": "Troubleshooting",
-        "faqs": "FAQs",
+        "faq": "FAQ",
         "support": "Support",
         "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "command-summary": "Command summary",
+        "command-summary-2": "Command Summary",
+        "future-enhancement": "Future Enhancement"
       },
       "headingKeywords": {}
     },
     {
       "src": "index.md",
-      "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "linktree": "LinkTree"
       },
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/adhigop13.md",
+      "title": "Adhitya's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-linktree": "Project: LinkTree"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/erohsikivar.md",
+      "title": "Ravi Kishore's Project Portfolio Page",
+      "headings": {
+        "project-linktree": "Project: LinkTree"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/jizhuochen.md",
+      "title": "Chen Jizhuo's Project Portfolio Page",
+      "headings": {
+        "project-linktree": "Project: LinkTree"
       },
       "headingKeywords": {}
     },
     {
       "src": "team/stevenliudw.md",
       "title": "Liu Diwen's Project Portfolio Page",
+      "headings": {
+        "project-linktree": "Project: LinkTree"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/tang-moyan.md",
+      "title": "Tang Moyan's Project Portfolio Page",
       "headings": {
         "project-linktree": "Project: LinkTree"
       },
