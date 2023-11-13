@@ -55,12 +55,12 @@
         "add-a-developer": "Add a developer",
         "remove-a-developer": "Remove a developer",
         "edit-a-developer": "Edit a developer",
-        "and-quot-find-by-keywords-and-quot": "&quot;Find by Keywords&quot;",
+        "find-a-developer": "Find a developer",
         "list-a-developer-optional-to-show-implementation": "List a developer (Optional to show implementation?)",
         "create-a-new-team": "Create a new team",
         "add-developers-to-an-existing-team": "Add developers to an existing team",
         "remove-an-existing-team": "Remove an existing Team",
-        "feature-find-team-by-keywords": "Feature: Find Team by Keywords",
+        "find-team-by-keywords": "Find Team by Keywords",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-a-requirements": "Appendix A: Requirements",
@@ -74,6 +74,9 @@
         "deleting-a-person": "Deleting a person",
         "saving-data": "Saving data",
         "appendix-c-effort": "Appendix C: Effort",
+        "overview": "Overview",
+        "challenges-and-solutions": "Challenges and Solutions:",
+        "results-and-achievements": "Results and Achievements",
         "appendix-d-future-enhancements": "Appendix D: Future Enhancements"
       },
       "headingKeywords": {}
@@ -147,12 +150,16 @@
         "help-command": "Help Command",
         "reset-the-project": "Reset the project",
         "exit-the-application": "Exit the application",
-        "troubleshooting": "Troubleshooting",
         "faq": "FAQ",
         "support": "Support",
+        "contact-information": "Contact Information",
+        "frequently-asked-questions-faqs": "Frequently Asked Questions (FAQs)",
+        "software-updates": "Software Updates",
+        "feedback-and-suggestions": "Feedback and Suggestions",
         "known-issues": "Known issues",
         "command-summary": "Command summary",
-        "future-enhancements": "Future Enhancements"
+        "future-enhancements": "Future Enhancements",
+        "glossary": "Glossary"
       },
       "headingKeywords": {}
     },
