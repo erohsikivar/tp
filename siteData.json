@@ -52,19 +52,22 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "feature-create-a-new-team": "Feature: Create a new team",
+        "feature-add-developers-to-an-existing-team": "Feature: Add developers to an existing team",
         "feature-remove-an-existing-team": "Feature: Remove an existing Team",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
-        "appendix-requirements": "Appendix: Requirements",
+        "appendix-a-requirements": "Appendix A: Requirements",
         "product-scope": "Product scope",
         "user-stories": "User stories",
         "use-cases": "Use cases",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
-        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
+        "appendix-b-instructions-for-manual-testing": "Appendix B: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-c-effort": "Appendix C: Effort",
+        "appendix-d-future-enhancements": "Appendix D: Future Enhancements"
       },
       "headingKeywords": {}
     },
@@ -132,11 +135,9 @@
         "edit-team-name": "Edit team name",
         "edit-team-leader": "Edit team leader",
         "find-team": "Find Team",
-        "what-this-command-does-13": "What this command does:",
         "list-teams": "List teams",
         "display-tree": "Display tree",
-        "command-format-10": "Command format:",
-        "help": "Help",
+        "help-command": "Help Command",
         "reset-the-project": "Reset the project",
         "exit-the-application": "Exit the application",
         "troubleshooting": "Troubleshooting",
@@ -144,7 +145,7 @@
         "support": "Support",
         "known-issues": "Known issues",
         "command-summary": "Command summary",
-        "future-enhancement": "Future Enhancement"
+        "future-enhancements": "Future Enhancements"
       },
       "headingKeywords": {}
     },
