@@ -61,8 +61,11 @@
         "add-developers-to-an-existing-team": "Add developers to an existing team",
         "remove-an-existing-team": "Remove an existing Team",
         "delete-developers-from-an-existing-team": "Delete developers from an existing team",
-        "list-teams": "List Teams",
+        "edit-team-name-of-an-existing-team": "Edit team name of an existing team",
+        "edit-team-leader-of-an-existing-team": "Edit team leader of an existing team",
         "find-team-by-keywords": "Find Team by Keywords",
+        "list-teams": "List Teams",
+        "show-tree": "Show Tree",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-a-requirements": "Appendix A: Requirements",
         "product-scope": "Product scope",
@@ -174,6 +177,7 @@
       "src": "team/adhigop13.md",
       "title": "Adhitya's Project Portfolio Page",
       "headings": {
+        "adhitya-s-project-portfolio-page": "Adhitya's Project Portfolio Page",
         "project-linktree": "Project: LinkTree"
       },
       "headingKeywords": {}
@@ -182,6 +186,7 @@
       "src": "team/erohsikivar.md",
       "title": "Ravi Kishore's Project Portfolio Page",
       "headings": {
+        "ravi-kishore-s-project-portfolio-page": "Ravi Kishore's Project Portfolio Page",
         "project-linktree": "Project: LinkTree"
       },
       "headingKeywords": {}
